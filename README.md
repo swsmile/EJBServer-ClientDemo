@@ -30,3 +30,5 @@ http://wiki.netbeans.org/CreatingEJB3UsingNetbeansAndGlassfish
 ##### EJB, Servlet (Creating Login Application Using EJB)
 https://www.youtube.com/watch?v=ii1Au07yc_o
 https://www.youtube.com/watch?v=My1RdrQCbxw
+
+##### https://blogs.oracle.com/roumen/accessing-ejb-3-session-beans-from-a-java-se-client
